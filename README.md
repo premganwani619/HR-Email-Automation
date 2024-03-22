@@ -26,9 +26,3 @@ This script sends job application emails to HR contacts listed in a CSV file.
 
 Prem Ganwani - prem.codez@gmail.com
 
-
-# Write content to README.md
-with open('README.md', 'w') as readme_file:
-    readme_file.write(readme_content)
-
-print("README.md generated successfully.")
