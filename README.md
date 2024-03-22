@@ -1,5 +1,3 @@
-# Generate README.md content
-readme_content = """
 # HR Email Sender
 
 This script sends job application emails to HR contacts listed in a CSV file.
@@ -28,7 +26,6 @@ This script sends job application emails to HR contacts listed in a CSV file.
 
 Prem Ganwani - prem.codez@gmail.com
 
-"""
 
 # Write content to README.md
 with open('README.md', 'w') as readme_file:
